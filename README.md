@@ -7,10 +7,8 @@ It was developed as the final project for the course, demonstrating event-driven
 
 ## 🧩 Features
 
-* Multiple game scenes (menu, gameplay, ending)
-* Character movement and animation
-* Background music and sound effects
-* GIF animation support through **algif5**
+*Battle System: Engage with enemies using collision detection and attack logic
+*Health and Scoring: Player’s HP decreases when hit; score increases when defeating enemies.
 
 ## 🧠 Development Environment
 
@@ -50,4 +48,4 @@ bin/          → Compiled executable
 
 Cheng Yan Hsieh
 National Tsing Hua University – Department of Mathematics
-2025 Spring Semester
+2023 Spring Semester
