@@ -7,8 +7,8 @@ It was developed as the final project for the course, demonstrating event-driven
 
 ## 🧩 Features
 
-*Battle System: Engage with enemies using collision detection and attack logic
-*Health and Scoring: Player’s HP decreases when hit; score increases when defeating enemies.
+* **Battle System:** Engage with enemies using collision detection and attack logic
+* **Health and Scoring:** Player’s HP decreases when hit; score increases when defeating enemies.
 
 ## 🧠 Development Environment
 
